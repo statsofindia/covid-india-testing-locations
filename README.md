@@ -1,6 +1,6 @@
 # COVID-19 Testing Laboratories - India
 
-List of ~2,850 geotagged COVID-19 testing labs in India.
+List of ~2,850 geotagged COVID-19 testing labs in India. Includes RTPCR/TrueNat/CBNAT Labs only.
 
 - [Download Latest CSV](testing-facilities.csv)
 - Archived every week from [ICMR source](https://covid.icmr.org.in/testing-facilities). See [data](data/) folder.
