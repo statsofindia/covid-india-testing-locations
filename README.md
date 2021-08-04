@@ -3,7 +3,11 @@
 List of ~2,850 geotagged COVID-19 testing labs in India.
 
 - [Download Latest CSV](testing-facilities.csv)
-- Archived every week from [ICMR](https://covid.icmr.org.in/testing-facilities). See [data](data/) folder.
+- Archived every week from [ICMR source](https://covid.icmr.org.in/testing-facilities). See [data](data/) folder.
+
+![map](images/icmr-covid-labs.png)
+
+Data format
 
 ![csv](images/csv.png)
 
